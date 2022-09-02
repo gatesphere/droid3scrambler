@@ -20,7 +20,7 @@ If you know what you're doing, feel free to ignore this section.  I don't have a
 
 - Make a folder somewhere on your machine, named whatever you'd like.
 
-- Download the droid3scrambler.py file from this repository (using the 'raw' link) into that folder.  (You don't need the .leo file, or this README.md file.)
+- Download the droid3scrambler.py file from this repository (using the ['raw' link](https://github.com/gatesphere/droid3scrambler/raw/main/droid3scrambler.py)) into that folder.  (You don't need the .leo file, or this README.md file.)
 
 ## Non-techy usage instructions (Windows)
 
